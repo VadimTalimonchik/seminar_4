@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\bin\Debug\net6.0\task_24.exe
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\bin\Debug\net6.0\task_24.deps.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\bin\Debug\net6.0\task_24.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\bin\Debug\net6.0\task_24.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\bin\Debug\net6.0\task_24.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\refint\task_24.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\task_24.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\seminars\seminar_4_2\task_24\obj\Debug\net6.0\ref\task_24.dll
